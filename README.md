@@ -105,7 +105,7 @@
             <p>House Coordinator</p>
         </div>
         <div class="right">
-            <p>MANAB KUMAR DEY</p>
+      <p>MANAB KUMAR DEY</p>
             <p>Principal</p>
         </div>
     </footer>
